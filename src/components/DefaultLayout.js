@@ -33,7 +33,7 @@ function DefaultLayout(props) {
               <h1>
                 <b>
                   <Link to="/" style={{ color: "orangered" }}>
-                    DirtClimb
+                    EQUIPMENT RENTAL
                   </Link>
                 </b>
               </h1>

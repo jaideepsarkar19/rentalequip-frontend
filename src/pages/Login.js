@@ -27,8 +27,8 @@ function Login() {
                     className='w-100'
                     data-aos='slide-right'
                     data-aos-duration='1500'
-                    src="https://pbs.twimg.com/media/CxdclKVWQAAPwzc?format=jpg&name=medium"/>
-                     <h1 className='login-logo'>D I R T C L I M B</h1>
+                    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lakecityrental.com%2Fequipment-rentals.asp&psig=AOvVaw3ctcSs98IOGXqNcRcMgarm&ust=1681743085075000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICQjK3Trv4CFQAAAAAdAAAAABAE"/>
+                     <h1 className='login-logo'>EQUIPMENT RENTAL</h1>
                 </Col>
                 <Col lg={8} className='text-left p-5'>
                     <Form layout='vertical' className='login-form p-5' onFinish={onFinish}>

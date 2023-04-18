@@ -25,8 +25,8 @@ function Register() {
            className='w-100'
            data-aos='slide-left'
            data-aos-duration='1500'
-          src="https://img.redbull.com/images/c_fill,w_1200,h_630,g_auto,f_auto,q_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual" />
-          <h1 className="login-logo">D I R T C L  M B</h1>
+          src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lakecityrental.com%2Fequipment-rentals.asp&psig=AOvVaw3ctcSs98IOGXqNcRcMgarm&ust=1681743085075000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICQjK3Trv4CFQAAAAAdAAAAABAE" />
+          <h1 className="login-logo">EQUIPMENT RENTAL</h1>
         </Col>
         <Col lg={8} className="text-left p-5">
           <Form layout="vertical" className="login-form p-5" onFinish={onFinish}>
